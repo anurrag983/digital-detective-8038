@@ -26,3 +26,6 @@ Go to your terminal and run:
 python3 mission-05-numbers-data/number_converter.py
 ```
 Type any positive number (like 42 or 255) and it will print the binary and hex values.
+
+## My Learning
+During this assignment, I learned how data flows through the IPOS cycle, how to manage files and pipelines using terminal commands on macOS, how numbers are represented at the bit level in binary and hexadecimal, and how Git branches facilitate collaboration.
