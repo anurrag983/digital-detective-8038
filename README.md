@@ -29,3 +29,6 @@ Type any positive number (like 42 or 255) and it will print the binary and hex v
 
 ## My Learning
 During this assignment, I learned how data flows through the IPOS cycle, how to manage files and pipelines using terminal commands on macOS, how numbers are represented at the bit level in binary and hexadecimal, and how Git branches facilitate collaboration.
+
+### Additional Reflection
+Working through these missions gave me practical hands-on experience with the macOS terminal, command flags, process monitoring, and Git version control workflows.
